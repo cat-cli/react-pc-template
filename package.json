@@ -23,7 +23,6 @@
     "axios": "^0.21.1",
     "dayjs": "^1.10.4",
     "dva-model-enhance": "^1.2.13",
-    "js-file-download": "^0.4.12",
     "lint-staged": "^11.0.0",
     "mockjs": "^1.1.0",
     "oidc-react": "^1.5.1",
@@ -32,12 +31,10 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "umi": "^3.4.22",
-    "umi-plugin-dva-enhance": "^2.0.2",
-    "uuid": "^8.3.2"
+    "umi-plugin-dva-enhance": "^2.0.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.8",
-    "@types/uuid": "^8.3.0",
     "@umijs/fabric": "^2.5.13",
     "@umijs/test": "^3.4.22",
     "cross-env": "^7.0.3",
